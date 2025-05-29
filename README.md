@@ -5,12 +5,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Karan+Jain!;Welcome+to+my+GitHub+profile!;Full-Stack+Developer+|+Tech+Enthusiast;Open+Source+Contributor+🚀" />
 </h1>
 
-![gitartwork](gitartwork.svg)
-
 <!-- Custom Banner -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Profile Banner">
 </p>
+
+![gitartwork](gitartwork.svg)
 
 <!-- Social Media Icons -->
 <p align="center">
